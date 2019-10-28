@@ -1,0 +1,506 @@
+# Dash to Dock master ja.po
+# Copyright (C) 2013-2019 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the dash-to-dock package.
+#
+# JungHee Lee (이정희) <daemul72@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: dash-to-dock master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-30 19:40+0900\n"
+"PO-Revision-Date: 2019-10-28 17:16+0900\n"
+"Last-Translator: JungHee Lee (이정희) <daemul72@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.1\n"
+
+msgid "Primary monitor"
+msgstr "기본 모니터"
+
+msgid "Secondary monitor "
+msgstr "보조 모니터 "
+
+msgid "Intelligent autohide customization"
+msgstr "지능형 자동 숨기기 사용자 정의"
+
+msgid "Reset to defaults"
+msgstr "기본값으로 재설정"
+
+msgid "Show dock and application numbers"
+msgstr "도구집 및 응용프로그램 번호 표시"
+
+msgid "Customize middle-click behavior"
+msgstr "가운데 클릭 동작 사용자 정의"
+
+msgid "Customize running indicators"
+msgstr "실행 표시기 사용자 정의"
+
+msgid "All Windows"
+msgstr "모든 윈도우"
+
+#, javascript-format
+msgid "Dash to Dock %s"
+msgstr "Dash to Dock %s"
+
+#: appIcons.js:801
+msgid "New Window"
+msgstr "새로운 창"
+
+#: appIcons.js:816
+msgid "Launch using Dedicated Graphics Card"
+msgstr "전용 그래픽 카드를 사용하여 시작"
+
+#: appIcons.js:843
+msgid "Remove from Favorites"
+msgstr "즐겨찾기에서 삭제하기"
+
+#: appIcons.js:849
+msgid "Add to Favorites"
+msgstr "즐겨찾기에 추가"
+
+#: appIcons.js:859
+msgid "Show Details"
+msgstr "세부사항 표시"
+
+#: appIcons.js:884 appIcons.js:904 Settings.ui:89 Settings.ui:162
+#: Settings.ui:235
+msgid "Quit"
+msgstr "종료"
+
+#: appIcons.js:906
+#, javascript-format
+msgid "Quit %d Windows"
+msgstr "%d 창 종료"
+
+#: appIcons.js:1092
+msgid "Settings"
+msgstr "설정"
+
+#: docking.js:1172
+msgid "Dash"
+msgstr "대시"
+
+#: Settings.ui:49
+msgid "When set to minimize, double clicking minimizes all the windows of the application."
+msgstr "최소화로 설정하면 두 번 클릭하면 응용프로그램의 모든 창이 최소화됩니다."
+
+#: Settings.ui:67
+msgid "Shift+Click action"
+msgstr "Shift + 클릭 동작"
+
+#: Settings.ui:81 Settings.ui:154 Settings.ui:227 Settings.ui:1588
+msgid "Raise window"
+msgstr "창 올리기"
+
+#: Settings.ui:82 Settings.ui:155 Settings.ui:228
+msgid "Minimize window"
+msgstr "창 최소화"
+
+#: Settings.ui:83 Settings.ui:156 Settings.ui:229 Settings.ui:1590
+msgid "Launch new instance"
+msgstr "새 인스턴스 시작"
+
+#: Settings.ui:84 Settings.ui:157 Settings.ui:230 Settings.ui:1591
+#: Settings.ui:1693
+msgid "Cycle through windows"
+msgstr "창을 통해 순환"
+
+#: Settings.ui:85 Settings.ui:158 Settings.ui:231 Settings.ui:1592
+msgid "Minimize or overview"
+msgstr "최소화 또는 겹쳐보기"
+
+#: Settings.ui:86 Settings.ui:159 Settings.ui:232 Settings.ui:1593
+msgid "Show window previews"
+msgstr "창 미리보기 표시"
+
+#: Settings.ui:87 Settings.ui:160 Settings.ui:233 Settings.ui:1594
+msgid "Minimize or show previews"
+msgstr "미리보기 최소화 또는 표시"
+
+#: Settings.ui:88 Settings.ui:161 Settings.ui:234 Settings.ui:1595
+msgid "Focus or show previews"
+msgstr "미리보기에 초점을 맞추거나 표시"
+
+#: Settings.ui:122
+msgid "Behavior for Middle-Click."
+msgstr "가운데 클릭 동작."
+
+#: Settings.ui:140
+msgid "Middle-Click action"
+msgstr "가운데 클릭 동작"
+
+#: Settings.ui:195
+msgid "Behavior for Shift+Middle-Click."
+msgstr "Shift + 중간 클릭 동작."
+
+#: Settings.ui:213
+msgid "Shift+Middle-Click action"
+msgstr "Shift + 중간 클릭 동작"
+
+#: Settings.ui:322
+msgid "Enable Unity7 like glossy backlit items"
+msgstr "광택있는 백라이트 항목과 같은 Unity7 사용"
+
+#: Settings.ui:359
+msgid "Use dominant color"
+msgstr "주요 색상 사용"
+
+#: Settings.ui:405
+msgid "Customize indicator style"
+msgstr "표시도구 스타일 사용자 정의"
+
+#: Settings.ui:437
+msgid "Color"
+msgstr "색상"
+
+#: Settings.ui:474
+msgid "Border color"
+msgstr "테두리 색상"
+
+#: Settings.ui:511
+msgid "Border width"
+msgstr "테두리 너비"
+
+#: Settings.ui:620
+msgid "Show the dock on"
+msgstr "도구집 표시"
+
+#: Settings.ui:642
+msgid "Show on all monitors."
+msgstr "모든 모니터에 표시합니다."
+
+#: Settings.ui:685
+msgid "Position on screen"
+msgstr "화면상의 위치"
+
+#: Settings.ui:701
+msgid "Left"
+msgstr "왼쪽"
+
+#: Settings.ui:719
+msgid "Bottom"
+msgstr "하단"
+
+#: Settings.ui:737
+msgid "Top"
+msgstr "상단"
+
+#: Settings.ui:756
+msgid "Right"
+msgstr "오른쪽"
+
+#: Settings.ui:826
+msgid "Hide the dock when it obstructs a window of the current application. More refined settings are available."
+msgstr "도구집이 현재 응용프로그램의 창을 가리면 숨깁니다. 보다 세련된 설정을 사용할 수 있습니다."
+
+#: Settings.ui:843
+msgid "Intelligent autohide"
+msgstr "지능형 자동 숨기기"
+
+#: Settings.ui:947
+msgid "Dock size limit"
+msgstr "도구집 크기 제한"
+
+#: Settings.ui:975
+msgid "Panel mode: extend to the screen edge"
+msgstr "패널 모드 : 화면 가장자리까지 확장"
+
+#: Settings.ui:1010
+msgid "Icon size limit"
+msgstr "아이콘 크기 제한"
+
+#: Settings.ui:1038
+msgid "Fixed icon size: scroll to reveal other icons"
+msgstr "고정 아이콘 크기 : 스크롤하여 다른 아이콘 표시"
+
+#: Settings.ui:1074
+msgid "Position and size"
+msgstr "위치와 크기"
+
+#: Settings.ui:1131
+msgid "Show favorite applications"
+msgstr "즐겨 찾는 응용프로그램 표시"
+
+#: Settings.ui:1173
+msgid "Show running applications"
+msgstr "실행중인 응용프로그램 표시"
+
+#: Settings.ui:1183
+msgid "Isolate workspaces."
+msgstr "작업공간 분리."
+
+#: Settings.ui:1199
+msgid "Isolate monitors."
+msgstr "모니터 분리."
+
+#: Settings.ui:1225
+msgid "Show open windows previews."
+msgstr "열린 창 미리보기를 표시."
+
+#: Settings.ui:1271
+msgid "If disabled, these settings are accessible from gnome-tweak-tool or the extension website."
+msgstr "비활성화하면 이 설정은 gnome-tweak-tool 또는 확장 웹 사이트에서 액세스할 수 있습니다."
+
+#: Settings.ui:1288
+msgid "Show <i>Applications</i> icon"
+msgstr "<i>응용프로그램</i> 아이콘 표시"
+
+#: Settings.ui:1299
+msgid "Move the applications button at the beginning of the dock."
+msgstr "도구집의 시작 부분에서 응용프로그램 단추를 이동합니다."
+
+#: Settings.ui:1326
+msgid "Animate <i>Show Applications</i>."
+msgstr "<i>응용프로그램 표시</i>에 애니메이션을 적용합니다."
+
+#: Settings.ui:1362
+msgid "Launchers"
+msgstr "실행도구"
+
+#: Settings.ui:1408
+msgid "Enable Super+(0-9) as shortcuts to activate apps. It can also be used together with Shift and Ctrl."
+msgstr "앱을 활성화하는 바로 가기로 Super + (0-9)를 활성화합니다. Shift 및 Ctrl과 함께 사용할 수도 있습니다."
+
+#: Settings.ui:1426
+msgid "Use keyboard shortcuts to activate apps"
+msgstr "키보드 단축키를 사용하여 앱 활성화"
+
+#: Settings.ui:1529
+msgid "Behaviour when clicking on the icon of a running application."
+msgstr "실행중인 응용프로그램의 아이콘을 클릭할 때의 동작."
+
+#: Settings.ui:1546
+msgid "Click action"
+msgstr "클릭 동작"
+
+#: Settings.ui:1589
+msgid "Minimize"
+msgstr "최소화"
+
+#: Settings.ui:1656
+msgid "Behaviour when scrolling on the icon of an application."
+msgstr "응용프로그램 아이콘을 스크롤할 때의 동작입니다."
+
+#: Settings.ui:1673
+msgid "Scroll action"
+msgstr "스크롤 동작"
+
+#: Settings.ui:1692
+msgid "Do nothing"
+msgstr "아무것도 하지 않음"
+
+#: Settings.ui:1694
+msgid "Switch workspace"
+msgstr "작업 공간 전환"
+
+#: Settings.ui:1735
+msgid "Behavior"
+msgstr "행동"
+
+#: Settings.ui:1781
+msgid "Few customizations meant to integrate the dock with the default GNOME theme. Alternatively, specific options can be enabled below."
+msgstr "도구집을 기본 그놈 테마와 통합하기 위한 사용자 정의는 거의 없습니다. 또는 아래에서 특정 옵션을 활성화할 수 있습니다."
+
+#: Settings.ui:1798
+msgid "Use built-in theme"
+msgstr "내장 테마 사용"
+
+#: Settings.ui:1877
+msgid "Save space reducing padding and border radius."
+msgstr "패딩과 테두리 반경을 줄이면 공간을 절약할 수 있습니다."
+
+#: Settings.ui:1893
+msgid "Shrink the dash"
+msgstr "대시 축소"
+
+#: Settings.ui:1923
+msgid "Customize windows counter indicators"
+msgstr "창 카운터 표시기 사용자 정의"
+
+#: Settings.ui:1966 Settings.ui:2165
+msgid "Default"
+msgstr "기본"
+
+#: Settings.ui:1967
+msgid "Dots"
+msgstr "도트"
+
+#: Settings.ui:1968
+msgid "Squares"
+msgstr "사각형"
+
+#: Settings.ui:1969
+msgid "Dashes"
+msgstr "대시"
+
+#: Settings.ui:1970
+msgid "Segmented"
+msgstr "세그먼트"
+
+#: Settings.ui:1971
+msgid "Solid"
+msgstr "입체"
+
+#: Settings.ui:1972
+msgid "Ciliora"
+msgstr "실리오라"
+
+#: Settings.ui:1973
+msgid "Metro"
+msgstr "메트로"
+
+#: Settings.ui:2014
+msgid "Set the background color for the dash."
+msgstr "대시의 배경색을 설정합니다."
+
+#: Settings.ui:2031
+msgid "Customize the dash color"
+msgstr "대시 색상 사용자 정의"
+
+#: Settings.ui:2106
+msgid "Tune the dash background opacity."
+msgstr "대시 배경 불투명도를 조정합니다."
+
+#: Settings.ui:2122
+msgid "Customize opacity"
+msgstr "불투명도 사용자 정의"
+
+#: Settings.ui:2166
+msgid "Fixed"
+msgstr "고정됨"
+
+#: Settings.ui:2167
+msgid "Dynamic"
+msgstr "동적"
+
+#: Settings.ui:2203
+msgid "Opacity"
+msgstr "불투명"
+
+#: Settings.ui:2259
+msgid "Force straight corner\n"
+msgstr "직선 모서리 강제\n"
+
+#: Settings.ui:2308
+msgid "Appearance"
+msgstr "외관"
+
+#: Settings.ui:2360
+msgid "version: "
+msgstr "버전: "
+
+#: Settings.ui:2392
+msgid "Moves the dash out of the overview transforming it in a dock"
+msgstr "도구집에서 대시를 변환하는 겹쳐보기 밖으로 이동"
+
+#: Settings.ui:2412
+msgid "Created by"
+msgstr "작성자 :"
+
+#: Settings.ui:2442
+msgid "Webpage"
+msgstr "웹 페이지"
+
+#: Settings.ui:2462
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">이 프로그램에 대한 어떠한 형태의 보증도 제공되지 않습니다.\n"
+"자세한 내용은 <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, 버전 2 이상</a> 참조합니다. </span>"
+
+#: Settings.ui:2483
+msgid "About"
+msgstr "프로그램 정보"
+
+#: Settings.ui:2556
+msgid "Customize minimum and maximum opacity values"
+msgstr "최소 및 최대 불투명도 값 사용자 정의"
+
+#: Settings.ui:2585
+msgid "Minimum opacity"
+msgstr "최소 불투명도"
+
+#: Settings.ui:2633
+msgid "Maximum opacity"
+msgstr "최대 불투명도"
+
+#: Settings.ui:2747
+msgid "Number overlay"
+msgstr "숫자 오버레이"
+
+#: Settings.ui:2759
+msgid "Temporarily show the application numbers over the icons, corresponding to the shortcut."
+msgstr "바로 가기에 해당하는 아이콘 위에 응용프로그램 번호를 임시로 표시합니다."
+
+#: Settings.ui:2809
+msgid "Show the dock if it is hidden"
+msgstr "도구집이 숨겨져 있으면 표시"
+
+#: Settings.ui:2821
+msgid "If using autohide, the dock will appear for a short time when triggering the shortcut."
+msgstr "자동 숨기기를 사용하는 경우 바로 가기를 트리거할 때 도구집이 잠시 동안 나타납니다."
+
+#: Settings.ui:2869
+msgid "Shortcut for the options above"
+msgstr "위 옵션에 대한 바로 가기"
+
+#: Settings.ui:2881
+msgid "Syntax: <Shift>, <Ctrl>, <Alt>, <Super>"
+msgstr "구문 : <Shift>, <Ctrl>, <Alt>, <Super>"
+
+#: Settings.ui:2934 Settings.ui:3284
+msgid "Hide timeout (s)"
+msgstr "제한시간 숨기기"
+
+#: Settings.ui:3001
+msgid "Show the dock by mouse hover on the screen edge."
+msgstr "화면 가장자리에 도구집을 마우스로 가져 가십시오."
+
+#: Settings.ui:3018
+msgid "Autohide"
+msgstr "자동 숨기기"
+
+#: Settings.ui:3041
+msgid "Push to show: require pressure to show the dock"
+msgstr "표시하기 위해 누름: 도구집을 표시하려면 압력이 필요합니다"
+
+#: Settings.ui:3056
+msgid "Enable in fullscreen mode"
+msgstr "전체 화면 모드에서 사용"
+
+#: Settings.ui:3092
+msgid "Show the dock when it doesn't obstruct application windows."
+msgstr "응용프로그램 창을 방해하지 않을 때 도구집을 표시합니다."
+
+#: Settings.ui:3109
+msgid "Dodge windows"
+msgstr "닷지 창"
+
+#: Settings.ui:3137
+msgid "All windows"
+msgstr "모든 창"
+
+#: Settings.ui:3155
+msgid "Only focused application's windows"
+msgstr "집중된 응용프로그램의 창만"
+
+#: Settings.ui:3173
+msgid "Only maximized windows"
+msgstr "최대화된 창만"
+
+#: Settings.ui:3233
+msgid "Animation duration (s)"
+msgstr "애니메이션 지속 시간"
+
+#: Settings.ui:3297
+msgid "Show timeout (s)"
+msgstr "제한시간 표시"
+
+#: Settings.ui:3310
+msgid "Pressure threshold"
+msgstr "압력 임계 값"
